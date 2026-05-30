@@ -65,3 +65,11 @@
 0.0.0.0 ect.c.nintendowifi.net
 0.0.0.0 tia.c.nintendowifi.net
 0.0.0.0 pres.c.nintendowifi.net
+
+# System Updates / NUS (Nintendo Update Server)
+0.0.0.0 nus.cdn.nintendo.net
+0.0.0.0 nus-write.cdn.nintendo.net
+0.0.0.0 superfly.nintendo.com
+0.0.0.0 idbe-ssl.nintendo.com
+0.0.0.0 idbe-ssl.c.nintendowifi.net
+0.0.0.0 web.c.nintendowifi.net
